@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+#slika1 {
+	width:240px;
+	height:180px;
+}
+#slika2 {
+	width: 240px;
+	height: 180px;
+}
+#my-map {
+	height: 250px;
+	width: 300px;
+    margin: 20px 20px 20px 20px;
+	
+}
+#video {
+	margin-bottom: 20px;
+	width:405px;
+	height:350px;
+}
+h1 {
+	font-size: 2em;
+}
